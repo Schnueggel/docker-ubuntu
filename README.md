@@ -1,3 +1,3 @@
 # Ubuntu latest image
 
-Installed ssh , scp and wget
+Installed ssh, scp, wget, curl and git
